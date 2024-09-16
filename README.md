@@ -3,7 +3,7 @@
 I'm a **mechatronics engineer** turned **software developer**, specializing in **JavaScript**, **React**, and **Node.js**. Currently, I work at [CODE Éxitos](https://codexitos.com/), where I've successfully led and developed multiple projects for international clients.
 
 [![Codewars Badge](https://www.codewars.com/users/Dluque001/badges/small)](https://www.codewars.com/users/Dluque001) \
-![Exercism Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fexercism.org%2Fapi%2Fv2%2Fprofiles%2Fdarwin-luque%2Fsolutions%3Flogo%3Dexercism%26logoColor%3Dwhite&query=%24.meta.unscoped_total&logo=exercism&logoColor=white&label=Exercism)
+[![Exercism Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fexercism.org%2Fapi%2Fv2%2Fprofiles%2Fdarwin-luque%2Fsolutions%3Flogo%3Dexercism%26logoColor%3Dwhite&query=%24.meta.unscoped_total&logo=exercism&logoColor=white&label=Exercism)](https://exercism.org/profiles/darwin-luque)
 
 ## 🏆 Achievements
 
