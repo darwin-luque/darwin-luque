@@ -1,12 +1,49 @@
-### Hi there! My name is Darwin Luque 👋
+# Hi there! My name is Darwin Luque 👋
 
-I'm a mechatronics engineer currently working as a software developer at [CODE Éxitos](https://codexitos.com/)
+I'm a **mechatronics engineer** turned **software developer**, specializing in **JavaScript**, **React**, and **Node.js**. Currently, I work at [CODE Éxitos](https://codexitos.com/), where I've successfully led and developed multiple projects for international clients.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=darwin-luque.darwin-luque)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=darwin-luque.darwin-luque)](https://github.com/darwin-luque)
+[![Codewars Badge](https://www.codewars.com/users/Dluque001/badges/small)](https://www.codewars.com/users/Dluque001)
 
+## 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=darwin-luque&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+- **Ranked 3 Kyu** on [Codewars](https://www.codewars.com/users/Dluque001), showcasing advanced problem-solving skills in algorithms and data structures.
+- Promoted to **Senior Software Developer** within 24 months at CODE Éxitos.
+- **Lead Developer** for over 10 successful projects for clients like Wendy's, Takeda, and Stellantis.
+- Contributed to the documentation of the open-source **NestJS** framework.
+
+## 🚀 Projects
+
+### [Advance File Management](https://advanced-file-management.darwinluque.me/)
+
+A file management tool to organize and retrieve files efficiently.
+
+- GitHub: [View Repo](https://github.com/darwin-luque/advanced-file-management)
+- Features: File upload, organization, and filtering system.
+
+### [Another Blog App](https://another-blog-app.vercel.app/)
+
+A simple yet functional blog platform built using modern web technologies.
+
+- GitHub: [View Repo](https://github.com/darwin-luque/another-blog-app)
+- Features: Blog post creation, user authentication, and content management.
+
+## 🔧 Skills
+
+- **Languages**: JavaScript, TypeScript, Python
+- **Frameworks**: React, Next.js, Vue.js, Node.js, Express.js, NestJS
+- **Databases**: Prisma, PostgreSQL, MongoDB
+- **Cloud**: AWS, DigitalOcean
+- **DevOps**: Docker, Kubernetes
+
+## 📈 GitHub Stats
 
 [![Darwin Luque's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwin-luque&show_icons=true&theme=synthwave&count_private=true)](https://github.com/darwin-luque)
 
 [![Darwin Luque's Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darwin-luque&layout=compact&theme=radical&count_private=true)](https://github.com/darwin-luque)
+
+## 📫 Get in Touch
+
+- [Website](https://www.darwinluque.me)
+- [LinkedIn](https://www.linkedin.com/in/darwin-luque/)
+- [Codewars](https://www.codewars.com/users/Dluque001)
