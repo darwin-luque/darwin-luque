@@ -10,8 +10,6 @@ I'm a **mechatronics engineer** turned **software developer**, specializing in *
 ## 🏆 Achievements
 
 - **Ranked 3 Kyu** on [Codewars](https://www.codewars.com/users/Dluque001), showcasing advanced problem-solving skills in algorithms and data structures.
-- Promoted to **Senior Software Developer** within 24 months at CODE Éxitos.
-- **Lead Developer** for over 10 successful projects for clients like Wendy's, Takeda, and Stellantis.
 - Contributed to the documentation of the open-source **NestJS** framework.
 
 ---
